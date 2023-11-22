@@ -4,4 +4,5 @@ version = "1.0.0"
 edition = "2021"
 
 [dependencies]
-# example = "1.0.0"
+systemstat = "0.2.3"
+whoami = "1.4.1"
