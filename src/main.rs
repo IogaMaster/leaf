@@ -5,12 +5,6 @@ use colors::*;
 use std::{env::var, str::from_boxed_utf8_unchecked};
 use systemstat::{Duration, Platform, System};
 
-const ASCII: &str = "
-   __   _
- _(  )_( )_
-(_   _    _)
-  (_) (__)";
-
 fn main() {
     let sys = System::new();
 
