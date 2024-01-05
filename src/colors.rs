@@ -7,4 +7,5 @@ pub const RED: &str = "\x1b[31m";
 pub const YELLOW: &str = "\x1B[32m";
 pub const MAGENTA: &str = "\x1b[35m";
 pub const YELLOW_BRIGHT: &str = "\x1B[93m";
+pub const PURPLE: &str = "\x1b[35m";
 pub const RESET: &str = "\x1B[0m";
